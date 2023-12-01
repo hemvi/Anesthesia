@@ -1,8 +1,8 @@
 {
-  "manifest_version": 2,
-  "version": "2.4.1",
-  "name": "Skiovox Helper",
-  "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
+  "manifest_version": 7,
+  "version": "7.8.3",
+  "name": "Anesthesia Helper",
+  "description": "A helper for the Anesthesia exploit -- read more on pdf",
   "icons": {
     "128": "icon.png"
   },
