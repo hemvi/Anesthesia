@@ -18,4 +18,4 @@ Once installed, open a new tab to see the extension's homepage.
 
 ![image](https://raw.githubusercontent.com/hemvi/Anesthesia/main/background/Screenshot%202023-12-03%2023.05.57.png)
 
-If you need to install extensions with chromewebstore.google.com blocked, try [Skebstore.](https://github.com/hemvi/Skidstore)
+If you need to install extensions with chromewebstore.google.com blocked, try [Skidstore.](https://github.com/hemvi/Skidstore)
